@@ -4,6 +4,8 @@ This repository contains code for the speech decoding retainer projects I undert
 
 For more information on the retainer construction and development, the paper is in the root of the repository. 
 
-![cland homepage](1.png)
+![speech decoding retainer](1.png)
 
-![cland homepage](2.png)
+![speech decoding retainer](2.png)
+
+![speech decoding retainer](3.jpg)
